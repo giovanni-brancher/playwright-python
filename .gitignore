@@ -1,0 +1,3 @@
+# Diretórios e subdiretórios
+.pytest_cache
+__pycache__
